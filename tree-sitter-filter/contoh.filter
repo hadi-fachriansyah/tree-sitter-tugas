@@ -1,0 +1,1 @@
+status = "open" and (priority > 2 or owner = "budi") and not archived = true and title contains "invoice" and status in ("open", "pending") and total >= 1.5

@@ -1,0 +1,17 @@
+{
+  "grammars": [
+    {
+      "name": "filter",
+      "camelcase": "Filter",
+      "scope": "source.filter",
+      "path": ".",
+      "file-types": ["filter"],
+      "highlights": "queries/highlights.scm"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "Filter DSL grammar for tree-sitter"
+  }
+}
